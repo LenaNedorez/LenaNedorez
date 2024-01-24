@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hello, I'm Elena Nedorezova <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Java backend developer</h3>
+<h2 align="center">Java backend developer</h2>
 
 <!--
 <div id="badges">
@@ -18,7 +18,7 @@
   </a>
 </div>
 -->
-
+[![codewars](https://www.codewars.com/users/username/badges/small)](https://www.codewars.com/users/username) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LenaNedorez&layout=compact&theme=vision-friendly-dark&hide=javascript,html,stylus,css)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
