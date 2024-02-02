@@ -7,13 +7,13 @@
 
 <div id="badges">
   <a href="http://my.mail.ru/mail/9265312018">
-    <img src="https://img.shields.io/badge/@mail-blue?style=for-the-badge&logo=mail&logoColor=orange&text-decoration-line=none" alt="Mail Badge"/>
+    <img src="https://img.shields.io/badge/@mail-blue?style=for-the-badge&logo=mail&logoColor=orange" alt="Mail Badge"/>
   </a>
   <a href="https://t.me/terapanthera">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&text-decoration-line=none" alt="Telegram Badge"/>
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
   <a href="https://wa.me/79265312018">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&text-decoration-line=none" alt="WhatsApp Badge"/>
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/>
   </a>
 </div>
 
