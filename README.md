@@ -14,12 +14,11 @@
   </a>
   <a href="https://wa.me/79265312018">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/>
-    
   </a>
 </div>
-<!--
+
 [![codewars](https://www.codewars.com/users/Terapanthera/badges/small)](https://www.codewars.com/users/Terapanthera) 
--->
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LenaNedorez&layout=compact&theme=vision-friendly-dark&hide=javascript,html,stylus,css)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
