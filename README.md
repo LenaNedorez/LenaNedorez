@@ -2,19 +2,20 @@
   <img src="https://media.giphy.com/media/6YSADgD7I0V1Z78txw/giphy.gif" width="500"/>
 </div>
 
-<h1 align="center">Hello, I'm Elena Nedorezova <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h1 align="center">Hello, I'm Elena<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h2 align="center">Java backend developer</h2>
 
 <!--
 <div id="badges">
-  <a href="9265312018@mail.ru">
-    <img src="https://img.shields.io/badge/@mail-blue?style=for-the-badge&logo=linkedin&logoColor=orange" alt="LinkedIn Badge"/>
+  <a href="http://my.mail.ru/mail/9265312018">
+    <img src="https://img.shields.io/badge/@mail-blue?style=for-the-badge&logo=mail&logoColor=orange" alt="Mail Badge"/>
   </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <a href="https://t.me/terapanthera">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href="https://wa.me/79265312018">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/>
+    
   </a>
 </div>
 -->
