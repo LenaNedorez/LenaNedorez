@@ -15,6 +15,10 @@
   <a href="https://wa.me/79265312018">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/>
   </a>
+    </a>
+  <a href="https://discordapp.com/users/Terapanthera">
+    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
+  </a>
 </div>
 
 [![codewars](https://www.codewars.com/users/Terapanthera/badges/small)](https://www.codewars.com/users/LenaNedorez) 
