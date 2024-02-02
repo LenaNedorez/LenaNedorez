@@ -17,8 +17,9 @@
     
   </a>
 </div>
-
+<!--
 [![codewars](https://www.codewars.com/users/Terapanthera/badges/small)](https://www.codewars.com/users/Terapanthera) 
+-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LenaNedorez&layout=compact&theme=vision-friendly-dark&hide=javascript,html,stylus,css)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
