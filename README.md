@@ -17,7 +17,7 @@
   </a>
 </div>
 
-[![codewars](https://www.codewars.com/users/Terapanthera/badges/small)](https://www.codewars.com/users/Terapanthera) 
+[![codewars](https://www.codewars.com/users/Terapanthera/badges/small)](https://www.codewars.com/users/LenaNedorez) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LenaNedorez&layout=compact&theme=vision-friendly-dark&hide=javascript,html,stylus,css)](https://github.com/anuraghazra/github-readme-stats)
 
